@@ -1,5 +1,3 @@
-# Attendance-Using-Face-Recognition
-
 # 📸 Attendance Automation System using Face Recognition
 
 A Python-based smart attendance automation system that uses **OpenCV** and **Haar Cascade Classifiers** for real-time **face detection and recognition**. This system captures student faces through a webcam and automatically marks attendance by recognizing the faces from a pre-trained dataset, storing the logs in a local database.
